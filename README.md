@@ -34,10 +34,7 @@ To use this redirect:
 1. Configure your apex domain DNS to point to GitHub Pages:
 
    ```dns
-   A    185.199.108.153
-   A    185.199.109.153
-   A    185.199.110.153
-   A    185.199.111.153
+   ALIAS blowcomotion.github.io
    ```
 
 2. Enable GitHub Pages on this repository (Settings → Pages)
